@@ -1,0 +1,14 @@
+C:\Users\ivans\Desktop\githubneshta\Game_of_Life\Game_of_Life\bin\Debug\net6.0\Game_of_Life.exe
+C:\Users\ivans\Desktop\githubneshta\Game_of_Life\Game_of_Life\bin\Debug\net6.0\Game_of_Life.deps.json
+C:\Users\ivans\Desktop\githubneshta\Game_of_Life\Game_of_Life\bin\Debug\net6.0\Game_of_Life.runtimeconfig.json
+C:\Users\ivans\Desktop\githubneshta\Game_of_Life\Game_of_Life\bin\Debug\net6.0\Game_of_Life.dll
+C:\Users\ivans\Desktop\githubneshta\Game_of_Life\Game_of_Life\bin\Debug\net6.0\Game_of_Life.pdb
+C:\Users\ivans\Desktop\githubneshta\Game_of_Life\Game_of_Life\obj\Debug\net6.0\Game_of_Life.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivans\Desktop\githubneshta\Game_of_Life\Game_of_Life\obj\Debug\net6.0\Game_of_Life.AssemblyInfoInputs.cache
+C:\Users\ivans\Desktop\githubneshta\Game_of_Life\Game_of_Life\obj\Debug\net6.0\Game_of_Life.AssemblyInfo.cs
+C:\Users\ivans\Desktop\githubneshta\Game_of_Life\Game_of_Life\obj\Debug\net6.0\Game_of_Life.csproj.CoreCompileInputs.cache
+C:\Users\ivans\Desktop\githubneshta\Game_of_Life\Game_of_Life\obj\Debug\net6.0\Game_of_Life.dll
+C:\Users\ivans\Desktop\githubneshta\Game_of_Life\Game_of_Life\obj\Debug\net6.0\refint\Game_of_Life.dll
+C:\Users\ivans\Desktop\githubneshta\Game_of_Life\Game_of_Life\obj\Debug\net6.0\Game_of_Life.pdb
+C:\Users\ivans\Desktop\githubneshta\Game_of_Life\Game_of_Life\obj\Debug\net6.0\Game_of_Life.genruntimeconfig.cache
+C:\Users\ivans\Desktop\githubneshta\Game_of_Life\Game_of_Life\obj\Debug\net6.0\ref\Game_of_Life.dll
